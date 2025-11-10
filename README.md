@@ -19,5 +19,4 @@ Se gestionan valores nulos, duplicados, variables categ√≥ricas y la normalizaci√
 ## Autor
 *Odalys Valeria Oleas Morocho*  
 Carrera: Ciencia de Datos e Inteligencia Artificial
-
 Universidad Nacional de Chimborazo
